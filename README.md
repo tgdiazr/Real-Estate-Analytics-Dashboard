@@ -49,5 +49,5 @@ Project Files and Folder Structure
 /Data: Contains the raw data files, including property sales, inventory, pricing, and construction details.
 /Visualizations: Folder containing images of the generated plots and charts from the analysis, such as sales vs. inventory, price distribution, and more.
 /Scripts: Python scripts used to automate data cleaning, transformation, and visualization.
-/Reports: Generated reports and summaries of the analysis for stakeholders, saved in PDF or CSV format.
+
 
